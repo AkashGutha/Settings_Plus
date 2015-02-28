@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AKASH-LAPPY</Machine>
+    <WindowsUser>Akash</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2738d6d3-6ec4-4320-963c-45a4211b634e</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\bin\Release\Settings_plus.exe">
+      <PackagePath>Settings_plus.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.Common.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.Common.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.Display.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.Display.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.UI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\RatingRemainder\RatingRemainder\bin\Release\RatingRemainder.dll">
+      <PackagePath>RatingRemainder.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Web\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Web\bootstrap.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Web\Ormma.js">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Web\Ormma.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Assets\Square44x44Logo.png">
+      <PackagePath>Assets\Square44x44Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Assets\Square71x71Logo.png">
+      <PackagePath>Assets\Square71x71Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Icons\Aeroplane.png">
+      <PackagePath>Icons\Aeroplane.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Icons\Battery.png">
+      <PackagePath>Icons\Battery.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Icons\Bluetooth.png">
+      <PackagePath>Icons\Bluetooth.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Icons\Cellular.png">
+      <PackagePath>Icons\Cellular.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Icons\Hotspot.png">
+      <PackagePath>Icons\Hotspot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Icons\Location.png">
+      <PackagePath>Icons\Location.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Icons\Lock_screen.png">
+      <PackagePath>Icons\Lock_screen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Icons\Mail.png">
+      <PackagePath>Icons\Mail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Icons\Rotate.png">
+      <PackagePath>Icons\Rotate.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Icons\Torch.png">
+      <PackagePath>Icons\Torch.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Icons\WhatsApp.png">
+      <PackagePath>Icons\WhatsApp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\Icons\Wifi.png">
+      <PackagePath>Icons\Wifi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\bin\Release\aboutPage.xbf">
+      <PackagePath>aboutPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\bin\Release\Settings_plus.xr.xml">
+      <PackagePath>Settings_plus.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

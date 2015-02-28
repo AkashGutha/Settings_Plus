@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ru"
+"ResourceDimensions"		"language-ru-ru"
+
+[Files]
+"C:\Users\Akash\documents\visual studio 2013\Projects\Settings_plus\Settings_plus\obj\Release\split.language-ru.pri"			"resources.pri"
